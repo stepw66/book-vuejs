@@ -12,4 +12,8 @@
 * how-to-mount-function-with-parameter
 * [event-key-modifier](event-key-modifier.md)
 * [2-ways-binding](2-ways-binding.md)
+* computed
+* data
+* methods
+* watch
 
