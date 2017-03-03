@@ -16,4 +16,5 @@
 * data
 * methods
 * watch
+* [easy-change-value](easy-change-value.md)
 
