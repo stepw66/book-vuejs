@@ -7,5 +7,5 @@
 * v-on
 * v-html
 * [shorthand](shorthand.md)
-* [{{ }}](inter.md)
-* 
+* [inter](inter.md)
+
