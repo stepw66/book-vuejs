@@ -8,4 +8,6 @@
 * v-html
 * [shorthand](shorthand.md)
 * [inter](inter.md)
+* how-to-mount-function
+* how-to-mount-function-with-parameter
 
