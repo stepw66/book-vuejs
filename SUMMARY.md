@@ -2,9 +2,10 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* v-once
+* [v-once](v-once.md)
 * v-bind
 * v-on
 * v-html
-* shorthand
+* [shorthand](shorthand.md)
+* [inter](inter.md)
 
