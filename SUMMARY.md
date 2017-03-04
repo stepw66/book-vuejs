@@ -19,4 +19,5 @@
 * [easy-change-value](easy-change-value.md)
 * [v-for](v-for.md)
 * [v-bind:class](v-bindclass.md)
+* [how-to-style-control](how-to-style-control.md)
 
