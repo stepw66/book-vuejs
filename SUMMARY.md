@@ -17,5 +17,6 @@
 * methods
 * watch
 * [easy-change-value](easy-change-value.md)
-* v-for
+* [v-for](v-for.md)
+* [v-bind:class](v-bindclass.md)
 
