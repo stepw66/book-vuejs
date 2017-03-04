@@ -17,7 +17,9 @@
 * [methods](methods.md)
 * watch
 * [easy-change-value](easy-change-value.md)
-* [v-for](v-for.md)
+* [loop with v-for](v-for.md)
+
+## Fundamental
 
 ## Lifecycle
 
