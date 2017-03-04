@@ -29,4 +29,6 @@
 
 * [style-by-css](how-to-style-control.md)
 * [v-bind:class](v-bindclass.md)
+* [multiple class](multiple-class.md)
+* multiple style
 
