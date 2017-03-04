@@ -14,10 +14,17 @@
 * [2-ways-binding](2-ways-binding.md)
 * computed
 * data
-* methods
+* [methods](methods.md)
 * watch
 * [easy-change-value](easy-change-value.md)
 * [v-for](v-for.md)
+
+## Lifecycle
+
+## Events
+
+## Dynamic Style by CSS
+
+* [style-by-css](how-to-style-control.md)
 * [v-bind:class](v-bindclass.md)
-* [how-to-style-html](how-to-style-control.md)
 
