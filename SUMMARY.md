@@ -27,8 +27,8 @@
 
 ## Dynamic Style by CSS
 
-* [style-by-css](how-to-style-control.md)
-* [v-bind:class](v-bindclass.md)
+* [style object by style property](how-to-style-control.md)
+* [style object by class property](v-bindclass.md)
 * [multiple class](multiple-class.md)
 * multiple style
 
