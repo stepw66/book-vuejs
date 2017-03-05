@@ -2,8 +2,8 @@
 
 ## Fundamental
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [What's Vue](README.md)
+* [How to install Vue](chapter1.md)
 * [loop with v-for](v-for.md)
 * [easy-change-value](easy-change-value.md)
 * v-on
