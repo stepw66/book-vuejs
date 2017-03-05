@@ -1,25 +1,25 @@
 # Summary
 
+## Fundamental
+
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
+* [loop with v-for](v-for.md)
+* [easy-change-value](easy-change-value.md)
+* v-on
 * [v-once](v-once.md)
 * v-bind
-* v-on
-* v-html
-* [shorthand](shorthand.md)
 * [inter](inter.md)
+* v-html
 * how-to-mount-function
-* how-to-mount-function-with-parameter
-* [event-key-modifier](event-key-modifier.md)
-* [2-ways-binding](2-ways-binding.md)
+* [shorthand](shorthand.md)
 * computed
-* data
+* [event-key-modifier](event-key-modifier.md)
+* how-to-mount-function-with-parameter
+* [2-ways-binding](2-ways-binding.md)
 * [methods](methods.md)
+* data
 * watch
-* [easy-change-value](easy-change-value.md)
-* [loop with v-for](v-for.md)
-
-## Fundamental
 
 ## Lifecycle
 
