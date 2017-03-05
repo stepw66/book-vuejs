@@ -1,5 +1,5 @@
 ```
-<div v-bind:class="{red: red}"></div>
+<div v-bind:class="{box: red}"></div>
 <input type="checkbox" v-bind:checked="true" /> Check
 ```
 
