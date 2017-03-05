@@ -27,11 +27,11 @@
 
 ## Dynamic Style by CSS
 
+* [Dynamic Style Object](dynamic-style-object.md)
 * [style object by class property](v-bindclass.md)
 * [style object by style property](how-to-style-control.md)
 * [multiple class](multiple-class.md)
 * multiple style
-* Dynamic Style Object
 
 ## Debugging Tool
 
