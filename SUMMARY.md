@@ -43,3 +43,7 @@
   * [Component tab](debugging-tool/debugging-tool-overview/component-tab.md)
   * [Events tab](debugging-tool/debugging-tool-overview/events-tab.md)
 
+## Vuex
+
+## Lodat
+
