@@ -137,9 +137,9 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 </script>
 ```
 
+**ผลลัพธ์**
+
+![](/assets/2017-03-06_13-10-00.jpg)
+
 //P
-
-
-
-
 
