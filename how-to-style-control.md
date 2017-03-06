@@ -141,5 +141,40 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 
 ![](/assets/2017-03-06_13-10-00.jpg)
 
+### ตัวอย่างโค้ดประยุกต์ใช้ v-bind:style \(progress bar\)
+
+```
+
+<div id="app">
+  <div style="background-color: #cccccc">
+    <div id="progressbar" v-bind:style="{'background-color': 'red', 'width': width + '%'}">Progressing...</div>
+  </div>
+  <input type="button" v-on:click="start" value="Start Progress" />
+</div>
+
+<script src="https://npmcdn.com/vue/dist/vue.js"></script>
+<script>
+  new Vue({
+    el: '#app',
+    data: {
+      width: 0
+    },
+    methods: {
+      start: function(){
+        var vm = this
+        var time = setInterval(function(){
+          vm.width++
+          if(vm.width >= 100){
+            clearInterval(time)
+          } 
+        }, 100)
+      }
+    }
+  })
+</script>
+```
+
 //P
+
+
 
