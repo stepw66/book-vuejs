@@ -4,12 +4,19 @@
 
 * [What's Vue](README.md)
 * [How to install Vue](chapter1.md)
-* [loop with v-for](v-for.md)
+* [Loop](v-for.md)
+  * v-for loop array
+  * v-for loop through object
+  * v-for loop array show index
+  * v-for loop through object show index and key
 * [easy-change-value](easy-change-value.md)
 * v-on
 * [v-once](v-once.md)
 * v-bind
-* [inter](inter.md)
+* [Show/Hide elements](inter.md)
+  * v-if
+  * v-else
+  * v-show
 * v-html
 * how-to-mount-function
 * [shorthand](shorthand.md)
@@ -19,10 +26,7 @@
 * [2-ways-binding](2-ways-binding.md)
 * [methods](methods.md)
 * data
-* watch
-* v-if
-* v-else
-* v-show
+* template
 
 ## Lifecycle
 
