@@ -4,20 +4,21 @@
 
 * [What's Vue](README.md)
 * [How to install Vue](chapter1.md)
+* [Bind value](bind-value.md)
+  * [v-bind](bind-value/v-bind.md)
+  * [bind data](bind-value/sign.md)
+  * v-once
+  * [v-html](bind-value/v-html.md)
 * [Loop](v-for.md)
   * v-for loop array
   * v-for loop through object
   * v-for loop array show index
   * v-for loop through object show index and key
-* [easy-change-value](easy-change-value.md)
-* v-on
-* [v-once](v-once.md)
-* v-bind
+* [v-on](v-on.md)
 * [Show/Hide elements](inter.md)
   * v-if
   * v-else
   * v-show
-* v-html
 * how-to-mount-function
 * [shorthand](shorthand.md)
 * computed
@@ -26,7 +27,6 @@
 * [2-ways-binding](2-ways-binding.md)
 * [methods](methods.md)
 * data
-* template
 
 ## Lifecycle
 
