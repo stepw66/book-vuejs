@@ -20,6 +20,9 @@
 * [methods](methods.md)
 * data
 * watch
+* v-if
+* v-else
+* v-show
 
 ## Lifecycle
 
