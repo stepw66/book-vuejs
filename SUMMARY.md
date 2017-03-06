@@ -11,6 +11,7 @@
   * [v-html](bind-value/v-html.md)
   * [v-model](bind-value/v-model.md)
   * computed
+  * data
 * [Loop](v-for.md)
   * v-for loop array
   * v-for loop through object
@@ -21,9 +22,6 @@
   * v-else
   * v-show
 * [shorthand](shorthand.md)
-* [how-to-mount-function-with-parameter](how-to-mount-function-with-parameter.md)
-* [methods](methods.md)
-* data
 
 ## Lifecycle
 
@@ -32,6 +30,7 @@
 * v-on
 * [how-to-mount-function](how-to-mount-function.md)
 * [event-key-modifier](event-key-modifier.md)
+* methods
 
 ## Dynamic Style by CSS
 
