@@ -28,8 +28,8 @@
 ## Dynamic Style by CSS
 
 * [Dynamic Style Object](dynamic-style-object.md)
-* [style object by class property](v-bindclass.md)
-* [style object by style property](how-to-style-control.md)
+* [style element by class property](v-bindclass.md)
+* [style element by style property](how-to-style-control.md)
 
 ## Debugging Tool
 
