@@ -144,7 +144,6 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 ### ตัวอย่างโค้ดประยุกต์ใช้ v-bind:style \(progress bar\)
 
 ```
-
 <div id="app">
   <div style="background-color: #cccccc">
     <div id="progressbar" v-bind:style="{'background-color': 'red', 'width': width + '%'}">Progressing...</div>
@@ -174,7 +173,9 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 </script>
 ```
 
+**ผลลัพธ์**
+
+![](/assets/2017-03-06_13-29-55.jpg)
+
 //P
-
-
 
