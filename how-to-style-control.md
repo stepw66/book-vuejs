@@ -1,5 +1,3 @@
-
-
 # Style element by style property
 
 เวลาเราเขียน style ใส่เข้าไปใน html ธรรมดาๆ หน้าตามันจะประมาณนี้
@@ -99,10 +97,9 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 
 ### แมป Style หลายค่า
 
-ในกรณีที่เราต้องการจะแมป css สไตล์หลายๆค่า เราสามารถทำได้ดังนี้ 
+ในกรณีที่เราต้องการจะแมป css สไตล์หลายๆค่า เราสามารถทำได้ดังนี้
 
 ```
-
 <div id="app">
   <div v-bind:style="{'background-color': 'red', 'border': '2px solid black'}">This is box</div>
 </div>
@@ -127,7 +124,6 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 อีกวิธีในการแมปค่า css สไตล์คือส่งค่าไปให้ v-bind:style แบบอะเรย์ ดูตัวอย่าง
 
 ```
-
 <div id="app">
   <div v-bind:style="[{'border': '2px solid black'},{'background-color': 'red'}]">This is box</div>
 </div>
@@ -141,11 +137,5 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 </script>
 ```
 
-ป
 
-ป
-
-ป
-
-ป
 
