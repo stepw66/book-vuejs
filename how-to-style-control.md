@@ -1,24 +1,4 @@
-```
-<div v-bind:style="{background-color: red}"></div>
-<div v-bind:style="{backgroundColor: red}"></div>
-<div v-bind:style="multiple"></div>
-```
 
-```
-new Vue({
-    el: '#root',
-    data: {
-        classRed: false,
-        red: "red"
-    },
-    computed: {
-        backgroundColor: "red",
-        borderWidth: "10px"
-    }
-})
-```
-
-x
 
 # Style element by style property
 
@@ -35,7 +15,6 @@ x
 เราใช้คำสั่ง v-bind:style เป็นตัวช่วยผูก style เข้าไปใน div ดูตัวอย่าง
 
 ```
-
 <div id="app">
   <div v-bind:style="{backgroundColor: 'red'}">This is box</div>
   <div v-bind:style="{'background-color': 'yellow'}">This is box</div>
@@ -69,10 +48,9 @@ Vue นั้นจะไม่สร้างคำสั่ง style ขึ้
 
 ### แมป Style อย่างง่ายอีกวิธีหนึ่ง
 
-นอกจากเราจะระบุค่า css สไตล์ลงไปตรงๆ ดังตัวอย่างด้านบน เรายังสามารถใช้ตัวแปรของ Vue เข้ามาช่วยได้ด้วย 
+นอกจากเราจะระบุค่า css สไตล์ลงไปตรงๆ ดังตัวอย่างด้านบน เรายังสามารถใช้ตัวแปรของ Vue เข้ามาช่วยได้ด้วย
 
 ```
-
 <div id="app">
   <div v-bind:style="{backgroundColor: vueRed}">This is box</div>
   <div v-bind:style="{'background-color': vueYellow}">This is box</div>
@@ -119,31 +97,55 @@ vueRed, vueYellow, vueBorder คือชื่อตัวแปร Vue
 
 ![](/assets/2017-03-06_10-21-15.jpg)
 
+### แมป Style หลายค่า
 
+ในกรณีที่เราต้องการจะแมป css สไตล์หลายๆค่า เราสามารถทำได้ดังนี้ 
 
+```
 
+<div id="app">
+  <div v-bind:style="{'background-color': 'red', 'border': '2px solid black'}">This is box</div>
+</div>
 
-ปป
+<script src="https://npmcdn.com/vue/dist/vue.js"></script>
+<script>
+  new Vue({
+    el: '#app',
+    data: {} 
+  })
+</script>
+```
+
+เราส่งค่าหลายค่าให้ v-bind:style ได้เลย
+
+```
+<div v-bind:style="{'background-color': 'red', 'border': '2px solid black'}">This is box</div>
+```
+
+### แมป Style ด้วยอะเรย์
+
+อีกวิธีในการแมปค่า css สไตล์คือส่งค่าไปให้ v-bind:style แบบอะเรย์ ดูตัวอย่าง
+
+```
+
+<div id="app">
+  <div v-bind:style="[{'border': '2px solid black'},{'background-color': 'red'}]">This is box</div>
+</div>
+
+<script src="https://npmcdn.com/vue/dist/vue.js"></script>
+<script>
+  new Vue({
+    el: '#app',
+    data: {} 
+  })
+</script>
+```
 
 ป
 
-
-
-
-
-ป
-
-
-
-ป
-
-
-
 ป
 
 ป
 
-
-
-
+ป
 
