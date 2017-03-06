@@ -9,28 +9,29 @@
   * [bind data](bind-value/sign.md)
   * v-once
   * [v-html](bind-value/v-html.md)
+  * [v-model](bind-value/v-model.md)
+  * computed
 * [Loop](v-for.md)
   * v-for loop array
   * v-for loop through object
   * v-for loop array show index
   * v-for loop through object show index and key
-* [v-on](v-on.md)
 * [Show/Hide elements](inter.md)
   * v-if
   * v-else
   * v-show
-* how-to-mount-function
 * [shorthand](shorthand.md)
-* computed
-* [event-key-modifier](event-key-modifier.md)
-* how-to-mount-function-with-parameter
-* [2-ways-binding](2-ways-binding.md)
+* [how-to-mount-function-with-parameter](how-to-mount-function-with-parameter.md)
 * [methods](methods.md)
 * data
 
 ## Lifecycle
 
 ## Events
+
+* v-on
+* [how-to-mount-function](how-to-mount-function.md)
+* [event-key-modifier](event-key-modifier.md)
 
 ## Dynamic Style by CSS
 
