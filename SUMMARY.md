@@ -4,9 +4,8 @@
 
 * [What's Vue](README.md)
 * [How to install Vue](chapter1.md)
-* [Bind value](bind-value.md)
+* [Bind data](bind-value.md)
   * [v-bind](bind-value/v-bind.md)
-  * [bind data](bind-value/sign.md)
   * v-once
   * [v-html](bind-value/v-html.md)
   * [v-model](bind-value/v-model.md)
@@ -22,6 +21,8 @@
   * v-else
   * v-show
 * [shorthand](shorthand.md)
+* component
+* store
 
 ## Lifecycle
 
