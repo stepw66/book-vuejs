@@ -1,14 +1,5 @@
 # การติดตั้ง Vue #
-
-วิธีที่ง่ายที่สุดคือ include ผ่านแท็ก  
- 
-
-ชี้ไปที่ cdn ของ npmcdn.com ก็ได้เขาปล่อยไฟล์ให้เราเรียกใช้งาน
-
-```
-<script src="https://npmcdn.com/vue/dist/vue.js"></script>
-
-```
+  
 
 หรือจะดาวน์โหลด Vue มาเก็บไว้ในเครื่อง ก็ได้ ซึ่งคุณสามารถดาวน์โหลดได้ที่ URL นี้   [https://unpkg.com/vue](https://unpkg.com/vue)
 
