@@ -4,6 +4,7 @@
 
 * [What's Vue](README.md)
 * [How to install Vue](how.md)
+* [Start using Vue](how/start-using-vue.md)
 * [Bind data](bind-value.md)
   * [v-bind](bind-value/v-bind.md)
   * v-once
