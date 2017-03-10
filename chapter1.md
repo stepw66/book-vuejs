@@ -1,4 +1,4 @@
-# การติดตั้ง Vue
+# การติดตั้ง Vue #
 
 วิธีที่ง่ายที่สุดคือ include ผ่านแท็ก &lt; script &gt;
 
@@ -6,6 +6,7 @@
 
 ```
 <script src="https://npmcdn.com/vue/dist/vue.js"></script>
+
 ```
 
 หรือจะดาวน์โหลด Vue มาเก็บไว้ในเครื่อง ก็ได้ ซึ่งคุณสามารถดาวน์โหลดได้ที่ URL นี้   [https://unpkg.com/vue](https://unpkg.com/vue)
@@ -53,9 +54,8 @@ el: "#app"
 data จะเป็น property ของออปเจ็ก Vue ที่เราสร้างขึ้นมา
 
 ```
-data: {
-      greeting: "Hello madam"
-    } 
+data: 
+      greeting: "Hello madam"     
 
 ```
 
