@@ -5,6 +5,7 @@
 * [Vue คืออะไร](README.md)
 * [วิธีติดตั้ง Vue](how.md)
 * [เริ่มต้นใช้งาน Vue](how/start-using-vue.md)
+* [v-bind](v-bind.md)
 * [Bind data](bind-value.md)
   * [v-bind](bind-value/v-bind.md)
   * v-once
@@ -23,7 +24,6 @@
   * v-show
 * [shorthand](shorthand.md)
 * component
-* store
 
 ## Lifecycle
 
