@@ -7,8 +7,8 @@
 * [เริ่มต้นใช้งาน Vue](how/start-using-vue.md)
 * [Bind data](bind-value.md)
   * [v-bind](v-bind.md)
-  * v-once
   * [v-html](bind-value/v-html.md)
+  * v-once
   * [v-model](bind-value/v-model.md)
   * computed
   * data
