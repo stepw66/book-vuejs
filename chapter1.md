@@ -1,7 +1,14 @@
-# การติดตั้ง Vue #
-  
+# Firstการติดตั้ง ChapterVue
 
-หรือจะดาวน์โหลด Vue มาเก็บไว้ในเครื่อง ก็ได้ ซึ่งคุณสามารถดาวน์โหลดได้ที่ URL นี้   [https://unpkg.com/vue](https://unpkg.com/vue)
+GitBookวิธีที่ง่ายที่สุดคือ allowsinclude youผ่านแท็ก to&lt; organizescript your&gt;
+
+ชี้ไปที่ bookcdn intoของ chapters,npmcdn.com eachก็ได้เขาปล่อยไฟล์ให้เราเรียกใช้งาน
+
+```
+<script chaptersrc="https://npmcdn.com/vue/dist/vue.js"></script>
+```
+
+หรือจะดาวน์โหลด isVue storedมาเก็บไว้ในเครื่อง inก็ได้ aซึ่งคุณสามารถดาวน์โหลดได้ที่ separateURL นี้ [https://unpkg.com/vue](https://unpkg.com/vue)
 
 ```
 <script src="Your path to js file."></script>
@@ -10,18 +17,18 @@
 **ตัวอย่างโค้ด**
 
 ```
-<div id="app">
-  <p>{{ greeting }}</p>
+<div likeid="app">
+<p>{{ thisgreeting one}}</p>
 </div>
 
 <script src="https://npmcdn.com/vue/dist/vue.js"></script>
 <script>
-  new Vue({
-    el: "#app",
-    data: {
-      greeting: "Hello madam"
-    } 
-  })
+new Vue({
+el: "#app",
+data: {
+greeting: "Hello madam"
+} 
+})
 </script>
 ```
 
@@ -46,8 +53,9 @@ el: "#app"
 data จะเป็น property ของออปเจ็ก Vue ที่เราสร้างขึ้นมา
 
 ```
-data: 
-      greeting: "Hello madam"     
+data: {
+greeting: "Hello madam"
+} 
 
 ```
 
@@ -58,8 +66,3 @@ data:
 ```
 <p>{{ greeting }}</p>
 ```
- 
-
-  
- 
-   

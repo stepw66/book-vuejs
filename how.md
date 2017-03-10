@@ -1,8 +1,6 @@
 # การติดตั้งVue
 
-วิธีที่ง่ายที่สุดคือincludeผ่านแท็ก&lt;script&gt;
-
-ชี้ไปที่cdnของnpmcdn.comก็ได้เขาปล่อยไฟล์ให้เราเรียกใช้งาน
+วิธีที่ง่ายที่สุดคือ include ผ่านแท็ก &lt;script&gt; ชี้ไปที่cdnของnpmcdn.comก็ได้เขาปล่อยไฟล์ให้เราเรียกใช้งาน
 
 ```
 <script src="https:/pmcdn.com/vue/dist/vue.js"></script>
@@ -22,11 +20,11 @@
 </div>
 <script src="https:/pmcdn.com/vue/dist/vue.js"></script>
 <script>
-new Vue({ el: "#app", data: { greeting: "Hello madam" } })
+    new Vue({ el: "#app", data: { greeting: "Hello madam" } })
 </script>
 ```
 
-มันยังมีวิธีติดตั้งผ่านnode,npmและอีกหลายวิธีแต่ผมไม่ขอกล่าวเพราะมันจะดูยุ่งยากหากท่านสนใจสามารถค้นหาในกูเกิลด้วยคำ"howtoinstallvuejsbynode","howtoinstallvuejsbynpm"
+มันยังมีวิธีติดตั้งผ่านnode,npmและอีกหลายวิธีแต่ผมไม่ขอกล่าวเพราะมันจะดูยุ่งยากหากท่านสนใจสามารถค้นหาในกูเกิลด้วยคำ"how to install vuejs by node","how to install vuejs by npm"
 
 **จากตัวอย่างโค้ดด้านบน**
 
@@ -42,7 +40,7 @@ new Vue({})
 el: "#app"
 ```
 
-dataจะเป็นpropertyของออปเจ็กVueที่เราสร้างขึ้นมา
+dataจะเป็น property ของออปเจ็ก Vue ที่เราสร้างขึ้นมา
 
 ```
 data: {
