@@ -8,7 +8,7 @@
 * [Bind data](bind-value.md)
   * [v-bind](v-bind.md)
   * [v-html](bind-value/v-html.md)
-  * v-once
+  * [v-once](v-once.md)
   * [v-model](bind-value/v-model.md)
   * computed
   * data
