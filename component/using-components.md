@@ -4,7 +4,20 @@
 
 ### \#Global registration
 
-คือกำหนดให้คอมโพเน้นสามารถใช้ทุกที่ภายในอีลีเมนต์ที่ถูกผูกใน Vue instance 
+คือกำหนดให้คอมโพเน้นสามารถใช้ทุกที่ภายในอีลีเมนต์ที่ถูกผูกใน Vue instance
+
+```
+Vue.component('my-component', {
+  // options
+})
+```
+
+```
+new Vue({
+    el: '#some-element',
+    ...
+})
+```
 
 
 
