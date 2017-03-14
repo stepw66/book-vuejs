@@ -10,19 +10,20 @@
   * [v-html](bind-value/v-html.md)
   * [v-once](v-once.md)
   * [v-model](bind-value/v-model.md)
-  * computed
-  * data
+  * [computed](computed.md)
+  * [data](data.md)
 * [Loop](v-for.md)
-  * v-for loop array
-  * v-for loop through object
+  * [v-for loop array](v-for/v-for-loop-array.md)
+  * [v-for loop through object](v-for/v-for-loop-through-object.md)
   * v-for loop array show index
   * v-for loop through object show index and key
 * [Show/Hide elements](inter.md)
-  * v-if
+  * [v-if](inter/v-if.md)
   * v-else
   * v-show
 * [shorthand](shorthand.md)
-* component
+* [component](component.md)
+  * [What is component?](component/rr.md)
 
 ## Lifecycle
 
