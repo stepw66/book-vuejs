@@ -22,8 +22,8 @@
   * v-else
   * v-show
 * [shorthand](shorthand.md)
-* [component](component.md)
-  * [What is component?](component/rr.md)
+* [Components](component.md)
+  * [What are components?](component/rr.md)
   * [Using Components](component/using-components.md)
     * [Registration](component/registration.md)
 
