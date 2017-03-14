@@ -15,7 +15,7 @@ Vue.component('my-component', {
 ```
 new Vue({
     el: '#some-element',
-    ...
+    //...
 })
 ```
 
